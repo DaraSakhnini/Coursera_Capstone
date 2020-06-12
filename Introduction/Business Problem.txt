@@ -1,1 +1,8 @@
 Dubai is a growing city with many opportunities for investors and working professionals. The city, once a desert, grows and develops into one of the richest cities in the world. Therefore, it becomes increasingly important to examine and understand it quantitatively. Therefore, entrepreneurs, investors, and city planners have an interest in identifying opportunities and growing urban footprints in underdeveloped neighborhoods.
+
+I will use dubai statistics center data and foursquare API for following analysis:
+
+1. Classifying neighborhoods as highly developed, downtown, or under developed
+2. Understanding how urban footprint of Dubai will expand
+3. Identifying business opportunities in urbanizing neighborhoods
+
