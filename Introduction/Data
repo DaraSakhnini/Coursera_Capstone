@@ -1,0 +1,9 @@
+Data to be used is:
+1. List of communities in Dubai from Wikipedia 
+https://en.wikipedia.org/wiki/List_of_communities_in_Dubai
+
+2. Latitude and Longitude of each communities from Geocoder from Geopy Library of Python.
+
+3. Different types of venues in each communities from Foursquare API.
+
+
